@@ -1,10 +1,9 @@
 
+  ✨ Stand - U  
+  🌱 I’m a beginner studying AI
 
-- 👋 Hi, I’m @Stand-U
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+  
+
 
 <!---
 Stand-U/Stand-U is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
