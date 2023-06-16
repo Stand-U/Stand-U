@@ -1,7 +1,9 @@
 
   ✨ Stand - U  
   🌱 I’m a beginner studying AI
-
+  
+  🏘️ Contact
+  📧 story-lady@nate.com
   
 
 
